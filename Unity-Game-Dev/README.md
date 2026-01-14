@@ -2,7 +2,7 @@
 
 ## Demo & Screenshots
 **Click the link below to view gameplay recordings and screenshots:**
-### [View Project Demo on Cloud Drive](https://drive.google.com/drive/folders/1S3H3fm4cW3WW62N4AilFiGYwKNeCdv1g?usp=drive_link)
+### [3D Game Development Mechanics Demo](https://drive.google.com/drive/folders/1S3H3fm4cW3WW62N4AilFiGYwKNeCdv1g?usp=drive_link)
 
 ---
 
