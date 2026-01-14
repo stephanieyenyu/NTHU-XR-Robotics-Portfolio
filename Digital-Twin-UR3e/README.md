@@ -2,7 +2,7 @@
 
 ## Demo & Screenshots
 **Click the link below to view the Real-time Digital Twin demo:**
-### [Digital Twin: UR3e Robotic Arm Control Demo](在此貼上你的雲端連結)
+### [Digital Twin: UR3e Robotic Arm Control Demo](https://drive.google.com/drive/folders/1a7tKsg_64-fT88ttvqsZsV9YG8feeWNl?usp=drive_link)
 
 ---
 
