@@ -43,4 +43,4 @@ The projects demonstrate practical experience in **Unity Engine**, **C# Scriptin
 
 ## Contact
 * **Email:** stephanieyenyu@gmail.com
-* **LinkedIn:** [Your LinkedIn Profile Link]
+* **LinkedIn:** (https://www.linkedin.com/in/me/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BxS6v7DHHRSmLEY4Q2lAlhA%3D%3D)
