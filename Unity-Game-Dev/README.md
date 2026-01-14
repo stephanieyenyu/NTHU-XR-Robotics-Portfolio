@@ -2,7 +2,7 @@
 
 ## Demo & Screenshots
 **Click the link below to view gameplay recordings and screenshots:**
-### View Project Demo on Cloud Drive](在此貼上你的雲端連結)
+### [View Project Demo on Cloud Drive](https://drive.google.com/drive/folders/1S3H3fm4cW3WW62N4AilFiGYwKNeCdv1g?usp=drive_link)
 
 ---
 
