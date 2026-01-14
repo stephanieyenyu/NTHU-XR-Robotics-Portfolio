@@ -5,7 +5,6 @@
 * **Education:** National Tsing Hua University (NTHU)
 * **Focus:** Game Development, VR/AR, and Digital Twin Robotics.
 * **Languages:** English (TOEIC 945 / TOEFL 93), Mandarin (Native)
-* **LinkedIn:** [Your LinkedIn Profile Link]
 
 ---
 
