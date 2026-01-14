@@ -2,7 +2,7 @@
 
 ## Demo & Screenshots
 **Click the link below to view the VR experience:**
-### [VR Immersive Interaction System Demo](https://drive.google.com/drive/folders/1yVPprp55zYmMt2mkNfQ2Fz7BY-dR8Fr5?usp=drive_link))
+### [VR Immersive Interaction System Demo](https://drive.google.com/drive/folders/1yVPprp55zYmMt2mkNfQ2Fz7BY-dR8Fr5?usp=drive_link)
 
 ---
 
