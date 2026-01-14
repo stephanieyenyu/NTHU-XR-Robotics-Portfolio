@@ -2,7 +2,7 @@
 
 ## Demo & Screenshots
 **Click the link below to view the mobile AR demo:**
-### [View Project Demo on Cloud Drive](在此貼上你的雲端連結)
+### [AR Smart Navigation Assistant Demo](https://drive.google.com/drive/folders/1aC1xBnlhtPrTU1PR1Pj2C_XU3ZUDGN5A?usp=drive_link)
 
 ---
 
