@@ -1,10 +1,13 @@
 # 3D Game Development Mechanics
 
-## Gameplay Demo
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+## Demo & Screenshots
+**Click the link below to view gameplay recordings and screenshots:**
+### View Project Demo on Cloud Drive](在此貼上你的雲端連結)
+
+---
 
 ## Overview
-A 3D action game project demonstrating core game development principles, including character control, physics interactions, and game state management.
+A 3D action game project demonstrating core game development principles. The goal was to build a robust character controller and manage complex game states without relying on pre-made assets for logic.
 
 ## Technical Implementation
 * **Character Controller:** Designed a responsive player movement system that handles inputs, jumping physics, and collision detection against environmental obstacles.
